@@ -1,0 +1,95 @@
+WTF #003 — NAV 📦🤖
+
+Same Basket. New Price.
+
+Arjun found a fruit basket he liked.
+
+🍎 Apple
+🥭 Mango
+🍊 Orange
+🍌 Banana
+
+Price:
+
+₹100
+
+The next day?
+
+₹105
+
+The day after?
+
+₹97
+
+Same basket.
+
+Same fruits.
+
+Different price.
+
+Naturally, Arjun thought:
+
+"Did the shopkeeper change the price again?"
+
+But the answer was surprisingly simple.
+
+📌 The basket didn't change.
+
+📌 The fruits did.
+
+When the value of the things inside changes, the value of the basket changes too.
+
+━━━━━━━━━━━━━━━
+
+📖 HUMAN TRANSLATION
+
+NAV = Net Asset Value
+
+Think of a Mutual Fund as a basket.
+
+Think of stocks and other investments as the fruits inside.
+
+When the value of those investments changes, the NAV changes.
+
+That's why the price of a Mutual Fund unit changes every day.
+
+━━━━━━━━━━━━━━━
+
+💡 Beginner Mistake:
+
+Many people think:
+
+NAV ₹10 = Cheap
+
+NAV ₹100 = Expensive
+
+❌ Wrong.
+
+A lower NAV does NOT mean a fund is cheaper or better.
+
+What matters is the quality of the investments inside the fund and how they perform over time.
+
+━━━━━━━━━━━━━━━
+
+TERM DECODED ✓
+
+NAV
+
+Same Basket.
+New Price.
+
+━━━━━━━━━━━━━━━
+
+NEXT MYSTERY:
+
+INDEX FUND
+
+The Market In A Box
+
+━━━━━━━━━━━━━━━
+
+Follow: @funfinancelabbyharsha
+
+#finance #money
+#stockmarketindia #investing
+#wealth 
